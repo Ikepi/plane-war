@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/6/4 14:29:52。
+     1>项目“D:\visual2012\飞机大战\飞机大战\飞机大战.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BlackBoard.cpp UIController.cpp
+         UIController.cpp
+         BlackBoard.cpp
+         正在生成代码...
+       Link:
+         D:\visual2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\visual2012\飞机大战\Debug\飞机大战.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\visual2012\飞机大战\Debug\飞机大战.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\visual2012\飞机大战\Debug\飞机大战.lib" /MACHINE:X86 Debug\BlackBoard.obj
+         Debug\Box.obj
+         Debug\bullet.obj
+         Debug\EnemyPlane.obj
+         Debug\MyPlane.obj
+         Debug\Play.obj
+         Debug\stdafx.obj
+         Debug\UIController.obj
+         飞机大战.vcxproj -> D:\visual2012\飞机大战\Debug\飞机大战.exe
+     1>已完成生成项目“D:\visual2012\飞机大战\飞机大战\飞机大战.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.37
